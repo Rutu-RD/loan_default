@@ -7,9 +7,9 @@ I analyzed a vast dataset containing information about loan applicants, focusing
 
 ### **Data Cleaning and Exploration:**
 
--Null Value Handling: Columns with more than 40% null values were dropped to enhance data quality.
--Flag Column Analysis: Columns starting with "FLAG_" were analyzed. Correlation analysis helped identify and drop irrelevant columns.
--Feature Engineering: New features were created, including binning for income and goods price, and categorization of employment and age ranges.
+-Null Value Handling: Columns with more than 40% null values were dropped to enhance data quality.  
+-Flag Column Analysis: Columns starting with "FLAG_" were analyzed. Correlation analysis helped identify and drop irrelevant columns.  
+-Feature Engineering: New features were created, including binning for income and goods price, and categorization of employment and age ranges.  
 ### **Feature Insights:**
 
 1 Loan Type Analysis:
