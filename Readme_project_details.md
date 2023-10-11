@@ -34,12 +34,12 @@ I analyzed a vast dataset containing information about loan applicants, focusing
 -Job Roles: Certain roles like drivers and sales staff had higher default rates, while managers and accountants had a lower rate (<7.5%).  
 
 
-**Conclusion:**  
+### **Conclusion:**  
 
 This analysis provided actionable insights for the financial institution. By focusing on applicants fitting specific profiles (such as married individuals with higher education and stable professions), the institution can optimize its loan approval process, reduce defaults, and improve overall portfolio quality
 
-**Key Takeaways for Business:**  
+### **Key Takeaways for Business:**  
 
--Targeted Marketing: Promotions and marketing efforts can be tailored for specific demographic and professional groups identified as low-risk borrowers.
--Risk Mitigation: By avoiding riskier categories (like certain job roles), the institution can proactively reduce default rates.
--Improved Decision Making: Data-driven insights can guide loan approval decisions, enhancing the institution's overall lending strategy.
+-**Targeted Marketing:** Promotions and marketing efforts can be tailored for specific demographic and professional groups identified as low-risk borrowers.  
+-**Risk Mitigation:** By avoiding riskier categories (like certain job roles), the institution can proactively reduce default rates.  
+-**Improved Decision Making:** Data-driven insights can guide loan approval decisions, enhancing the institution's overall lending strategy.  
