@@ -14,18 +14,19 @@ I analyzed a vast dataset containing information about loan applicants, focusing
 
 1 Loan Type Analysis:
 
--Cash Loans: Safest loan type with an 8% default rate.
+-Cash Loans: Safest loan type with an 8% default rate.  
+
 
 2 Demographic Factors:
 
 -Gender: Females exhibited a lower default rate of 6%.
 -Family Status: Applicants with family connections showed a default rate below 8%.
--Education: Higher education levels correlated with a default rate of less than 6%. Academic backgrounds had the lowest default rate, indicating potential for targeted promotions.
+-Education: Higher education levels correlated with a default rate of less than 6%. Academic backgrounds had the lowest default rate, indicating potential for targeted promotions.   
 
 3 Marital and Housing Status:
 
 -Marriage: Married individuals had a default rate of less than 8%, making them preferable candidates.
--Housing: Those with their own houses/apartments displayed a default rate below 8%.
+-Housing: Those with their own houses/apartments displayed a default rate below 8%.  
 
 4 Occupation Impact:
 
